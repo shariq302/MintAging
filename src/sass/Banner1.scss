@@ -1,0 +1,27 @@
+.bg_img_banner{
+    background-image: url('../assets/images/banner.png');
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 258px;
+}
+.overlay_shadow{
+    background-color: #f992b5bd;
+    height: 258px;
+    width: auto;
+
+
+}
+.overlay_img_style{
+    position: relative;
+    top: 1rem;
+    z-index: 1;
+}
+.overlay_heading_style{
+    position: relative;
+    top: 6rem;
+    z-index: 2;
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: sans-serif;
+}

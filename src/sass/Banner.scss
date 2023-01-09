@@ -1,0 +1,22 @@
+
+@import '../Variable.scss';
+
+.banner-col1 {
+    background-image: url('../assets/images/bg.png');
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 20em 0 20em;
+    margin-top: -2em;
+    background-size: cover;
+}
+
+.banner-h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+}
