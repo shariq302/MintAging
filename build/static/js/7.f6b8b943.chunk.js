@@ -1,0 +1,2 @@
+(this.webpackJsonpmyapp=this.webpackJsonpmyapp||[]).push([[7],{752:function(e,a,c){},832:function(e,a,c){"use strict";c.r(a);c(2);var n=c(744),s=c(446),t=c(310),i=(c(752),c(21));a.default=function(){return Object(i.jsx)(n.a,{fluid:!0,children:Object(i.jsx)(s.a,{children:Object(i.jsx)(t.a,{className:"banner-col1",children:Object(i.jsx)("h1",{className:"banner-h1",children:"clock for health, beauty & happiness (deaging african heritage)"})})})})}}}]);
+//# sourceMappingURL=7.f6b8b943.chunk.js.map
